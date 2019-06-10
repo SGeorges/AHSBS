@@ -1,0 +1,13 @@
+.home, .away {
+    font-weight: bold;
+}
+.game {
+    margin: 20px;
+}
+
+.recap {
+    padding: 15px;
+    
+    color: rgb(0, 70, 0);
+    margin: auto;
+}

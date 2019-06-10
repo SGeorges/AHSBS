@@ -1,0 +1,50 @@
+.roster-img {
+    width: 100%;
+    height: auto;
+  }
+
+.img-col {
+    width: 48px;
+}
+
+.name-col {
+    text-align: left;
+}
+
+.roster-name {
+    color: rgb(0, 70, 0);
+}
+
+.player-items, .player-meas {
+    display: inline;
+    margin: 10px;
+    list-style-type: none;
+    font-weight: 600;
+}
+
+ul {
+    display: inline;
+    list-style-type: none;
+}
+
+.f-12 {
+    font-size: 12px;
+}
+
+.player-meas-title {
+    width: 100px;
+
+    display: inline;
+
+    padding: 8px;
+    font-style: bold;
+}
+
+.profile-logo {
+    width: 10%;
+    height: auto;
+}
+
+ul.list {
+    padding: 10px 8px;
+}
